@@ -1,2 +1,2 @@
-# packer-ansible-postgres
-Packer Docker image with Postgres10 installed
+# packer-ansible
+Docker container with Packer, Ansible, and Molecule
